@@ -1,0 +1,125 @@
+{
+  "Header": {
+    "title": "Excellent Service Experience",
+    "paragraph": "Memberikan Kepastian Barang Sampai Dengan Aman"
+  },
+  "About": {
+    "paragraph": "Dapatkan potongan harga hingga 500rb untuk setiap pengiriman barang minimal 100kg selama periode 1 Juni - 30 Desember 2022. Promo Terbatas!",
+    "Why": [
+      "Harga Kompetitif",
+      "Barang Bisa Dijemput",
+      "Garansi Pengiriman Cepat"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Click Here",
+      "largeImage": "img/team/test-1.JPG",
+      "smallImage": "img/team/test-1.JPG"
+    },
+    {
+      "title": "Click Here",
+      "largeImage": "img/team/test-2.JPG",
+      "smallImage": "img/team/test-2.JPG"
+    },
+    {
+      "title": "Click Here",
+      "largeImage": "img/team/test-3.JPG",
+      "smallImage": "img/team/test-3.JPG"
+    },
+    {
+      "title": "Click Here",
+      "largeImage": "img/team/test-4.PNG",
+      "smallImage": "img/team/test-4.PNG"
+    },
+    {
+      "title": "Click Here",
+      "largeImage": "img/team/test-5.JPG",
+      "smallImage": "img/team/test-5.JPG"
+    },
+    {
+      "title": "Click Here",
+      "largeImage": "img/team/test-6.JPG",
+      "smallImage": "img/team/test-6.JPG"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-cart-arrow-down",
+      "name": "Low Prices",
+      "text": "Bayar Setelah Paket Diterima dan Bisa Dicicil"
+    },
+    {
+      "icon": "fa fa-plane",
+      "name": "Ready to Pick Up",
+      "text": "Siap Jemput Paket Anda Selama 24 Jam"
+    },
+    {
+      "icon": "fa fa-pie-chart",
+      "name": "Best Services",
+      "text": "Pelayanan Pengiriman Express & Bergaransi"
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/02.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/03.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/04.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    },
+    {
+      "img": "img/testimonials/05.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "John Doe"
+    },
+    {
+      "img": "img/testimonials/06.jpg",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Johnathan Doe"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Jl. Pawon Raya No.25 Bencongan Indah Kec. Kelapa Dua, Kab. Tangerang, Banten 15810",
+    "phone": "(021) 55671796",
+    "email": "cs@hbuexpress.com",
+    "facebook": "fb.com",
+    "twitter": "twitter.com",
+    "youtube": "youtube.com"
+  }
+}
