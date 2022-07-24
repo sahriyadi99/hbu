@@ -1,4 +1,3 @@
-import SEO from './SEO';
 import { Image } from "./image";
 
 export const Gallery = (props) => {
@@ -23,7 +22,7 @@ export const Gallery = (props) => {
           </div>
         </div>
       </div>
-      <SEO url="gallery" />
+   
     </div>
   )
 }

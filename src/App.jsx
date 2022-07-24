@@ -9,6 +9,7 @@ import { Contact } from "./components/contact";
 import JsonData from "./data/data.json";
 import SmoothScroll from "smooth-scroll";
 import "./App.css";
+import { Helmet } from "react-helmet";
 
 export const scroll = new SmoothScroll('a[href*="#"]', {
   speed: 1000,
@@ -23,7 +24,10 @@ const App = () => {
 
   return (
     <div>
-      
+      <Helmet>
+        <title>Jasa Kirim Paket Tangerang</title>
+        <meta name="description" content="Jasa Kirim Paket Di Tangerang" />
+      </Helmet>
       <Navigation />
       <Header data={landingPageData.Header} />
 

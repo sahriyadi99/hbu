@@ -1,4 +1,3 @@
-import SEO from './SEO';
 import { useState } from 'react'
 import emailjs from 'emailjs-com'
 
@@ -109,7 +108,7 @@ export const Contact = (props) => {
           </p>
         </div>
       </div>
-      <SEO url="contact" />
+    
     </div>
   )
 }

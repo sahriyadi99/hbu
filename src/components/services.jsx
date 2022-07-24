@@ -1,4 +1,3 @@
-import SEO from './SEO';
 export const Services = (props) => {
   return (
     <div id='services' className='text-center'>
@@ -24,7 +23,7 @@ export const Services = (props) => {
             : 'loading'}
         </div>
       </div>
-      <SEO url="services" />
+     
     </div>
   )
 }

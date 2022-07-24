@@ -1,5 +1,3 @@
-import SEO from './SEO';
-
 export const About = (props) => {
   return (
     <div id="about">
@@ -29,7 +27,6 @@ export const About = (props) => {
           </div>
         </div>
       </div>
-      <SEO url="about" />
     </div>
   );
 };
