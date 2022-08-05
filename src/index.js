@@ -4,7 +4,9 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+<head>
 <meta name="google-site-verification" content="fWqZVSXgC_QbEkViPgTrf8TFWDLRh_4d8WFQyDw3Sbc" />
+</head>
 
 ReactDOM.render(
   <React.StrictMode>
