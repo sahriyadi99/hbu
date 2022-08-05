@@ -5,6 +5,7 @@ import App from './App';
 import * as serviceWorker from './serviceWorker';
 
 <head>
+<meta charSet='utf-8'/>
 <meta name="google-site-verification" content="fWqZVSXgC_QbEkViPgTrf8TFWDLRh_4d8WFQyDw3Sbc" />
 </head>
 
