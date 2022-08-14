@@ -1,6 +1,11 @@
+import { Helmet } from "react-helmet"
 export const About = (props) => {
   return (
     <div id="about">
+      <Helmet>
+        <title>Jasa Kirim Paket di Tangerang</title>
+        <meta name="description" content="Jasa Kirim Paket Di Tangerang" />
+      </Helmet>
       <div className="container">
         <div className="row">
           <div className="col-xs-12 col-md-6">
